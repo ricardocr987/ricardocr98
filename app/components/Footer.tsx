@@ -1,6 +1,7 @@
 import Link from 'next/link';
 const routes = [
     { label: 'Home', route: '/' },
+    { label: 'Book a meeting', route: '/meeting' },
     { label: 'Contact', route: '/contact' },
     { label: 'Sign in', route: '/signIn' }
 ]
